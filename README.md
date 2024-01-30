@@ -16,6 +16,6 @@ While this project includes a simple linear regression model that performs house
 
 3. Usage
 
-Run the Streamlit application:
+    Run the Streamlit application:
 
-streamlit run stream.py
+    streamlit run stream.py
